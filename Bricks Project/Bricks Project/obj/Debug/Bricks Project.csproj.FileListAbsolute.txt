@@ -1,0 +1,11 @@
+C:\Users\Jeremy.Foreman\source\repos\Bricks Project\Bricks Project\bin\Debug\Bricks Project.exe.config
+C:\Users\Jeremy.Foreman\source\repos\Bricks Project\Bricks Project\bin\Debug\Bricks Project.exe
+C:\Users\Jeremy.Foreman\source\repos\Bricks Project\Bricks Project\bin\Debug\Bricks Project.pdb
+C:\Users\Jeremy.Foreman\source\repos\Bricks Project\Bricks Project\obj\Debug\Bricks Project.csproj.AssemblyReference.cache
+C:\Users\Jeremy.Foreman\source\repos\Bricks Project\Bricks Project\obj\Debug\Bricks Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jeremy.Foreman\source\repos\Bricks Project\Bricks Project\obj\Debug\Bricks_Project.Form1.resources
+C:\Users\Jeremy.Foreman\source\repos\Bricks Project\Bricks Project\obj\Debug\Bricks_Project.Properties.Resources.resources
+C:\Users\Jeremy.Foreman\source\repos\Bricks Project\Bricks Project\obj\Debug\Bricks Project.csproj.GenerateResource.cache
+C:\Users\Jeremy.Foreman\source\repos\Bricks Project\Bricks Project\obj\Debug\Bricks Project.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy.Foreman\source\repos\Bricks Project\Bricks Project\obj\Debug\Bricks Project.exe
+C:\Users\Jeremy.Foreman\source\repos\Bricks Project\Bricks Project\obj\Debug\Bricks Project.pdb
